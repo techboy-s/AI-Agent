@@ -205,6 +205,7 @@ Build this
 free api - https://freeapi.hashnode.space/api-guide/apireference/getUsers
 
 frontend interview question
+
 1- File Explorer
 2- Pagination
 3- EMI Calculator
@@ -229,6 +230,8 @@ frontend interview question
 22- Memory game
 23- Cinema hall ticket booking 
 24- Multi-step form
+25- Tab component
+26- Accordian component
 
 
 Table of Content
