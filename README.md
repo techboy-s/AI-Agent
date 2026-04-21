@@ -202,3 +202,128 @@ Build this
 ## First outreach batch
 ## Send 10 personalized cold DMs or emails today using your audit offer. Track responses in a simple Google Sheet. Your goal: 1 discovery call booked within 7 days.
 
+free api - https://freeapi.hashnode.space/api-guide/apireference/getUsers
+
+frontend interview question
+1- File Explorer
+2- Pagination
+3- EMI Calculator
+4- Linked List in React js
+5- grid lights
+6- useMemo hook Polyfill
+7- Like Button
+8- Job Board
+9- UseEffect Hook polyfill
+10 - Dark mode light mode
+11- BreadsCrumbs
+12- OTP login
+13- Multi-select Search
+14- Stepper component
+15- Use throttle hook
+16- Selectable Grid
+17- Drag and drop notes
+18- Tic Tac Toe
+19- Toast Component
+20- Autosuggestion or TypeAhead
+21- Poll widget
+22- Memory game
+23- Cinema hall ticket booking 
+24- Multi-step form
+
+
+Table of Content
+01. Implement Debounce- Easy
+//// Asked in Meta, Google, Flipkart, IBM, MakeMyTrip
+02. Implement Throttle- Medium
+//// Asked in Google, Meta, Tekion
+03. Implement Currying- Easy
+//// Asked in Intuit, Tekion, Adobe, MakeMyTrip, Jio, Paytm
+04. Implement Currying with Placeholders- Medium
+//// Asked in Amazon, Flipkart, Yandex, Xiaomi, Vimeo, Gojek, Zeta
+05. Deep Flatten I- Medium
+//// Asked in Roblox, Disney+ Hotstar, Rippling
+06. Deep Flatten II- Medium
+//// Asked in CoinSwitch
+07. Deep Flatten III- Easy
+08. Deep Flatten IV- Hard
+//// Asked in Meta, TikTok, Google, Apple, Yandex, Flipkart
+09. Negative Indexing in Arrays (Proxies)- Medium
+10. Implement a Pipe Method- Easy
+//// Asked in Adobe
+11. Implement Auto-retry Promises- Medium
+Interview.js
+//// Asked in Amazon, Flipkart, Adobe, Paypal, Swiggy
+12. Implement Promise.all- Medium
+//// Asked in TikTok, Lyft, Snapchat, Disney+ Hotstar, MakeMyTrip, Jio,
+MindTickle, Zepto
+13. Implement Promise.allSettled- Medium
+//// Asked in Tekion, Adobe
+14. Implement Promise.any- Medium
+//// Asked in Zepto
+15. Implement Promise.race- Easy
+//// Asked in Yandex
+16. Implement Promise.finally- Medium
+//// Asked in Google
+17. Implement Custom Javascript Promises- Super Hard
+//// Asked in Amazon, Airbnb, Tekion, Cars24
+18. Throttling Promises by Batching- Medium
+19. Implement Custom Deep Equal-Hard
+//// Asked in Google, Tekion
+20. Implement Custom Object.assign- Medium
+//// Asked in ServiceNow, Flipkart
+21. Implement Custom JSON.stringify- Hard
+//// Asked in Meta
+22. Implement Custom JSON.parse- Super Hard
+//// Asked in Meta
+23. Implement Custom typeof operator- Medium
+24. Implement Custom lodash _.get()- Medium
+//// Asked in TikTok, Amazon, Quizizz, MindTickle
+25. Implement Custom lodash _.set()- Medium
+26. Implement Custom lodash _.omit()- Medium
+27. Implement Custom String Tokenizer- Medium
+28. Implement Custom setTimeout- Medium
+//// Asked in Swiggy, Disney+ Hotstar
+29. Implement Custom setInterval- Medium
+//// Asked in Meta, TikTok, Swiggy
+30. Implement Custom clearAllTimers- Easy
+//// Asked in Meta
+31. Implement Custom Event Emitter- Medium
+//// Asked in Meta, Flipkart, Adobe, Jio, Tekion
+32. Implement Custom Browser History- Medium
+33. Implement Custom lodash _.chunk()- Medium
+34. Implement Custom Deep Clone-Medium
+//// Asked in Adobe, Tekion, Navi
+35. Promisify the Async Callbacks- Easy
+//// Asked in Amazon
+Interview.js
+36. Implement 'N' async tasks in Series- Hard
+//// Asked in Jio, MakeMyTrip, Tekion
+37. Implement 'N' async tasks in Parallel- Medium
+//// Asked in Zepto, Paytm, BookMyShow
+38. Implement 'N' async tasks in Race- Easy
+39. Implement Custom Object.is() method- Easy
+40. Implement Custom lodash _.partial()- Medium
+//// Asked in Meesho
+41. Implement Custom lodash _.once()- Medium
+42. Implement Custom trim() operation- Medium
+43. Implement Custom reduce() method- Medium
+//// Asked in Amazon, Apple, Expedia, Paytm, ByteLearn
+44. Implement Custom lodash _.memoize()- Medium
+//// Asked in Meta, Intuit, Gameskraft
+45. Implement Custom memoizeLast() method- Medium
+46. Implement Custom call() method- Medium
+//// Asked in Meesho
+47. Implement Custom apply() method- Medium
+48. Implement Custom bind() method- Medium
+//// Asked in Rippling, Flipkart, BookMyShow
+Interview.js
+49. Implement Custom React "classnames" library- Medium
+//// Asked in Meta
+50. Implement Custom Redux used "Immer" library- Medium
+51. Implement Custom Virtual DOM- I (Serialize)- Hard
+//// Asked in Meta
+52. Implement Custom Virtual DOM- II (Deserialize)- Medium
+//// Asked in Meta
+53. Implement Memoize/Cache identical API calls- Hard
+//// Asked in Facebook
+
